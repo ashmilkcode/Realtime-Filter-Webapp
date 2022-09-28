@@ -1,0 +1,20 @@
+h1
+{
+    color: darkslategrey;
+}
+
+h3
+{
+    font-size: 25px !important;
+    color:darkslategrey
+}
+
+.btn-success:hover
+{
+    background-color: rgb(43, 40, 40);
+}
+
+.btn-success
+{
+    background-color: gray;
+}
